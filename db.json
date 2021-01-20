@@ -1,0 +1,61 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "en": "Book",
+      "ru": "Книга",
+      "lvl": "1",
+      "img": ""
+    },
+    {
+      "id": 2,
+      "en": "City",
+      "ru": "Город",
+      "lvl": "1",
+      "img": ""
+    },
+    {
+      "id": 3,
+      "en": "Sun",
+      "ru": "Солнце",
+      "lvl": "1",
+      "img": ""
+    },
+    {
+      "id": 4,
+      "en": "Life",
+      "ru": "Жизнь",
+      "lvl": "1",
+      "img": ""
+    },
+    {
+      "id": 5,
+      "en": "Science",
+      "ru": "Наука",
+      "lvl": "1",
+      "img": ""
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "admin",
+      "cards": []
+    },
+    {
+      "id": 2,
+      "login": "Alex",
+      "password": "qwerty",
+      "cards": []
+    },
+    {
+      "id": 3,
+      "login": "Ann",
+      "password": "Ann123",
+      "cards": []
+    }
+  ],
+  "tasks": [],
+  "articles": []
+}
