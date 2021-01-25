@@ -39,19 +39,19 @@
   "users": [
     {
       "id": 1,
-      "login": "admin",
+      "username": "admin",
       "password": "admin",
       "cards": []
     },
     {
       "id": 2,
-      "login": "Alex",
+      "username": "Alex",
       "password": "qwerty",
       "cards": []
     },
     {
       "id": 3,
-      "login": "Ann",
+      "username": "Ann",
       "password": "Ann123",
       "cards": []
     }
