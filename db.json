@@ -4,7 +4,11 @@
       "id": 1,
       "username": "admin",
       "password": "admin",
-      "likes": [],
+      "likes": [
+        "tt0478970",
+        "tt1300854",
+        "tt1034314"
+      ],
       "interested": []
     },
     {
