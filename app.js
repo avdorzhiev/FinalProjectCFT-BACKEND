@@ -3,7 +3,7 @@ const morgan = require('morgan');
 const bodyParser = require('body-parser');
 
 const usersRotues = require('./routes/users');
-const cardsRoutes = require('./routes/cards');
+const cardsRoutes = require('./routes/movies');
 
 const00 = require('child_process').execSync;
 const cluster = require('cluster');

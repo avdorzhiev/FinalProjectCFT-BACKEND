@@ -1,61 +1,26 @@
 {
-  "cards": [
-    {
-      "id": 1,
-      "en": "Book",
-      "ru": "Книга",
-      "lvl": "1",
-      "img": ""
-    },
-    {
-      "id": 2,
-      "en": "City",
-      "ru": "Город",
-      "lvl": "1",
-      "img": ""
-    },
-    {
-      "id": 3,
-      "en": "Sun",
-      "ru": "Солнце",
-      "lvl": "1",
-      "img": ""
-    },
-    {
-      "id": 4,
-      "en": "Life",
-      "ru": "Жизнь",
-      "lvl": "1",
-      "img": ""
-    },
-    {
-      "id": 5,
-      "en": "Science",
-      "ru": "Наука",
-      "lvl": "1",
-      "img": ""
-    }
-  ],
   "users": [
     {
       "id": 1,
       "username": "admin",
       "password": "admin",
-      "cards": []
+      "likes": [],
+      "interested": []
     },
     {
       "id": 2,
       "username": "Alex",
       "password": "qwerty",
-      "cards": []
+      "likes": [],
+      "interested": []
     },
     {
       "id": 3,
       "username": "Ann",
       "password": "Ann123",
-      "cards": []
+      "likes": [],
+      "interested": []
     }
   ],
-  "tasks": [],
-  "articles": []
+  "cards": []
 }
